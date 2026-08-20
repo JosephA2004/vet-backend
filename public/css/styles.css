@@ -1,0 +1,23 @@
+body {
+  background-color: #f1f6f4;
+}
+.login-body {
+  min-height: 100vh;
+}
+.login-card {
+  width: 100%;
+  max-width: 380px;
+  border: none;
+  border-radius: 16px;
+}
+.navbar-vet {
+  background-color: #2e7d5b !important;
+}
+.btn-success {
+  background-color: #2e7d5b;
+  border-color: #2e7d5b;
+}
+.btn-success:hover {
+  background-color: #256349;
+  border-color: #256349;
+}
